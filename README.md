@@ -18,7 +18,7 @@ This demo contains .htaccess to remove index.php. In order to take effect of the
 </ol>
 
 #Licence
-Cities.sql database is Created by Haneef Puttur
+Cities.sql database is Created by Haneef Puttur<br>
 CodeIgniter 2.X version is access by understand and follow all the Terms and Conditions of 
 <a href="https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst" target="_blank">The MIT License (MIT) </a>
 

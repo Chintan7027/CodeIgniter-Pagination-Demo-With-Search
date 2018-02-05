@@ -22,7 +22,7 @@ Cities.sql database is Created by Haneef Puttur<br>
 CodeIgniter 2.X version is access by understand and follow all the Terms and Conditions of 
 <a href="https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst" target="_blank">The MIT License (MIT) </a>
 
-#State of the art
+    #State of the art
     if (!empty($_GET['cityFilter'])) {
         $config["base_url"] = base_url('Listing/index?cityFilter=' . $_GET['cityFilter']);
     } else {
